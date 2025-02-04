@@ -1,4 +1,6 @@
- function gretting (){
-   console.log('Hola)}
+ function gretting ()
+ {
+   console.log('Hola');
+    }
 
 gretting();
